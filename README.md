@@ -21,7 +21,7 @@ Unlike traditional profilers that provide raw memory statistics, LeakWatch focus
 Install using pip:
 
 ```bash
-pip install .
+pip install leakwatch-py
 ```
 
 ## Quick Start
