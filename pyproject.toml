@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leakwatch"
+version = "1.0.0"
+description = "A Python library to identify memory leaks and abnormal memory growth"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+authors = [
+    {name = "Trix Cyrus"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "psutil>=5.0.0",
+]
+
+[project.scripts]
+leakwatch = "leakwatch.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["leakwatch*"]
