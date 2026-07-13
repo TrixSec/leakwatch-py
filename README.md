@@ -1,8 +1,25 @@
 # LeakWatch
 
-[![PyPI version](https://img.shields.io/pypi/v/leakwatch-py.svg)](https://pypi.org/project/leakwatch-py/)
-[![Python](https://img.shields.io/pypi/pyversions/leakwatch-py.svg)](https://pypi.org/project/leakwatch-py/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://pypi.org/project/leakwatch-py/"><img src="https://img.shields.io/pypi/v/leakwatch-py?style=for-the-badge&logo=pypi&logoColor=white&color=blue" alt="PyPI Version"></a>
+  <a href="https://pypi.org/project/leakwatch-py/"><img src="https://img.shields.io/pypi/pyversions/leakwatch-py?style=for-the-badge&logo=python&logoColor=white" alt="Python Versions"></a>
+  <a href="https://github.com/TrixSec/LeakWatch/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TrixSec/LeakWatch?style=for-the-badge&logo=gnu&logoColor=white&color=green" alt="License"></a>
+  <a href="https://pypi.org/project/leakwatch-py/"><img src="https://img.shields.io/pypi/dm/leakwatch-py?style=for-the-badge&logo=pypi&logoColor=white&color=orange" alt="PyPI Downloads"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TrixSec/LeakWatch/stargazers"><img src="https://img.shields.io/github/stars/TrixSec/LeakWatch?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"></a>
+  <a href="https://github.com/TrixSec/LeakWatch/network/members"><img src="https://img.shields.io/github/forks/TrixSec/LeakWatch?style=for-the-badge&logo=github&color=lightgrey" alt="GitHub Forks"></a>
+  <a href="https://github.com/TrixSec/LeakWatch/issues"><img src="https://img.shields.io/github/issues/TrixSec/LeakWatch?style=for-the-badge&logo=github&color=red" alt="GitHub Issues"></a>
+  <a href="https://github.com/TrixSec/LeakWatch/commits/main"><img src="https://img.shields.io/github/last-commit/TrixSec/LeakWatch?style=for-the-badge&logo=github&color=purple" alt="Last Commit"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TrixSec/LeakWatch"><img src="https://img.shields.io/github/repo-size/TrixSec/LeakWatch?style=for-the-badge&logo=github&color=teal" alt="Repository Size"></a>
+  <a href="https://github.com/TrixSec/LeakWatch/releases"><img src="https://img.shields.io/github/v/release/TrixSec/LeakWatch?style=for-the-badge&logo=github&color=darkgreen" alt="Latest Release"></a>
+  <a href="https://t.me/Trixsec"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+</p>
+
 
 LeakWatch is a lightweight, easy-to-use Python library designed to help developers identify memory leaks and abnormal memory growth within Python applications.
 
